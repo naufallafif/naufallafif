@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Hi%2C%20I'm%20Afif%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%7C%20Web%20Developer%20%7C%20Java%20Learner&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient banner introducing Afif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Hi%2C%20I'm%20Afif%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Web%20Developer%20%7C%20Java%20Learner&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient banner introducing Afif" />
 
 <a href="https://github.com/naufallafif">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Final-year+Informatics+student;Building+useful+web-based+systems;Learning+Java+and+backend+development;Turning+ideas+into+real+projects" alt="Animated introduction: Informatics student, web developer, Java learner" />
@@ -49,7 +49,6 @@
 <br />
 
 <img src="https://streak-stats.demolab.com?user=naufallafif&theme=tokyonight&hide_border=true" alt="Afif's GitHub contribution streak" />
-<br />
 
 </div>
 
