@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Hi%2C%20I'm%20Afif%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Web%20Developer%20%7C%20Java%20Learner&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient banner introducing Afif" />
 
 <a href="https://github.com/naufallafif">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Final-year+Informatics+student;Building+useful+web-based+systems;Learning+Java+and+backend+development;Turning+ideas+into+real+projects" alt="Animated introduction: Informatics student, web developer, Java learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Final-year+Information+systems+student;Building+useful+web-based+systems;Learning+Java+and+backend+development;Turning+ideas+into+real+projects" alt="Animated introduction: Informatics student, web developer, Java learner" />
 </a>
 
 <br />
@@ -21,9 +21,9 @@
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated illustration of a developer working at a computer" />
 
 - 🎓 Final-year Informatics student
-- 🌐 Focused on web development and information systems
+- 🌐 Focused on web development
 - 🌱 Currently learning Java, backend fundamentals, and database design
-- 🛠️ Building practical projects with Java, PHP, JavaScript, and MySQL
+- 🛠️ Building practical projects with Laravel ,HTML, CSS, PHP, JavaScript, and MySQL
 - 🤝 Open to collaborating on web and Java projects
 - ☕ Fueled by curiosity (and coffee)
 
