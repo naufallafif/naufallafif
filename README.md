@@ -68,7 +68,7 @@
 
 ---
 
-## ⏱️ Coding Time & Languages
+## 💻 Languages I'm Using
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
