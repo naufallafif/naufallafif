@@ -99,22 +99,14 @@
 
 </div>
 
-<details>
-<summary>📈 View contribution activity graph</summary>
-<br />
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufallafif&theme=tokyo-night&hide_border=true&area=true" alt="Afif's GitHub contribution activity graph" />
-</div>
-</details>
-
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-| --- | --- | --- |
+| Project                                    | Description                                                                                       | Tech             |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------- |
 | **HS Code Search & Classification System** | A web-based information system for searching and classifying HS codes, built as a thesis project. | `Web` `Database` |
-| **Clinic Horus** | A Java console application for patient registration and treatment scheduling. | `Java` |
+| **Clinic Horus**                           | A Java console application for patient registration and treatment scheduling.                     | `Java`           |
 
 ---
 
