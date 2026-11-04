@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Hi%2C%20I'm%20Afif%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Web%20Developer%20%7C%20Java%20Learner&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient banner introducing Afif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Hi%2C%20I'm%20Afif%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient banner introducing Afif" />
 
 <a href="https://github.com/naufallafif">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Final-year+Information+systems+student;Building+useful+web-based+systems;Learning+Java+and+backend+development;Turning+ideas+into+real+projects" alt="Animated introduction: Informatics student, web developer, Java learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Information+Systems+student+%7C+Full-stack+learner;Migrated+UniPaaS+projects+to+Magic+xpa+4.1;Designing+databases+with+PostgreSQL;Learning+Spring+Boot+and+JWT+authentication" alt="Animated introduction: Information Systems student, Magic xpa project experience, PostgreSQL, Spring Boot, and JWT" />
 </a>
 
 <br />
@@ -20,11 +20,13 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated illustration of a developer working at a computer" />
 
-- 🎓 Final-year Informatics student
-- 🌐 Focused on web development
-- 🌱 Currently learning Java, backend fundamentals, and database design
-- 🛠️ Building practical projects with Laravel ,HTML, CSS, PHP, JavaScript, and MySQL
-- 🤝 Open to collaborating on web and Java projects
+- 🎓 Information Systems student focused on building practical software
+- 🔄 Worked on project-based migrations from UniPaaS to **Magic xpa 4.1**, using Oracle SQL tools
+- ⚛️ Built projects and explored frontend development with **React**
+- 🗄️ Learning full-stack development, starting with database design and **PostgreSQL**
+- ☕ Currently learning **Java Spring Boot** and JWT-based authentication
+- 🛠️ Also work with Laravel, PHP, JavaScript, and MySQL
+- 🤝 Open to collaborating on web and backend projects
 - ☕ Fueled by curiosity (and coffee)
 
 <br clear="right" />
@@ -34,7 +36,15 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,laravel,html,css,js,php,mysql,postgres,git,github,vscode,figma&perline=10" alt="Afif's technology stack: Java, Laravel, HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Git, GitHub, VS Code, and Figma" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,laravel,html,css,js,php,mysql,postgres,git,github,vscode,figma&perline=7" alt="Afif's stack and learning tools: Java, Spring Boot, React, Laravel, HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Git, GitHub, VS Code, and Figma" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Magic%20xpa%204.1-6B4E9B?style=for-the-badge" alt="Magic xpa 4.1" />
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL tools" />
+<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
+
 </div>
 
 ---
