@@ -37,18 +37,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,laravel,html,css,js,php,mysql,postgres,git,github,vscode,figma&perline=10" alt="Afif's technology stack: Java, Laravel, HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Git, GitHub, VS Code, and Figma" />
 
-<br /><br />
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Magic%20XPA-6B4E9B?style=for-the-badge" alt="Magic XPA" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio (SSMS)" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<br ></br>
 
 </div>
 
@@ -69,19 +58,15 @@
 ## 🐍 Activity — Feed the Snake 🍎
 
 <div align="center">
-
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Small animated coding illustration accompanying the contribution snake" />
-&nbsp;🐍🍎&nbsp;
 
-<br /><br />
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naufallafif/naufallafif/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naufallafif/naufallafif/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/naufallafif/naufallafif/output/github-contribution-grid-snake.svg" alt="Animated snake eating Afif's GitHub contribution grid" />
 </picture>
-
-<br />
 
 🔥 Keep committing. Keep growing. Keep the snake fed. 🔥
 
