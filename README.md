@@ -34,11 +34,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,laravel,html,css,js,php,mysql,postgres,git,github,vscode,figma&perline=10" alt="Afif's technology stack: Java, Laravel, HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Git, GitHub, VS Code, and Figma" />
-
-<br ></br>
-
 </div>
 
 ---
@@ -59,8 +55,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Small animated coding illustration accompanying the contribution snake" />
 
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naufallafif/naufallafif/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naufallafif/naufallafif/output/github-contribution-grid-snake.svg" />
@@ -75,10 +69,11 @@
 
 ## 📌 Featured Projects
 
-| Project                                    | Description                                                                                       | Tech             |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------- |
-| **HS Code Search & Classification System** | A web-based information system for searching and classifying HS codes, built as a thesis project. | `Web` `Database` |
-| **Clinic Horus**                           | A Java console application for patient registration and treatment scheduling.                     | `Java`           |
+| Project                                               | Description                                                                                       | Tech                         |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------- |
+| **HS Code Search & Classification System**            | A web-based information system for searching and classifying HS codes, built as a thesis project. | `Web` `Database`             |
+| **Clinic Horus**                                      | A Java console application for patient registration and treatment scheduling.                     | `Java`                       |
+| [**Inboxed**](https://github.com/naufallafif/inboxed) | A web application built with the Laravel framework.                                               | `Laravel` `PHP` `JavaScript` |
 
 ---
 
@@ -95,8 +90,7 @@
 <div align="center">
 
 <a href="https://github.com/naufallafif"><img src="https://img.shields.io/badge/GitHub-naufallafif-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Afif's GitHub profile" /></a>
-
-<br /><br />
+<a href="https://www.instagram.com/naufallafif/"><img src="https://img.shields.io/badge/Instagram-naufallafif-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Afif on Instagram" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer" width="100%" alt="Gradient footer banner" />
 
