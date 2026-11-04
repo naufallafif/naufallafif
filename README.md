@@ -3,10 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Hi%2C%20I'm%20Afif%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient banner introducing Afif" />
 
 <a href="https://github.com/naufallafif">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Information+Systems+student+%7C+Full-stack+learner;Migrated+UniPaaS+projects+to+Magic+xpa+4.1;Designing+databases+with+PostgreSQL;Learning+Java+and+Spring+Boot" alt="Animated introduction: Information Systems student, Magic xpa project experience, PostgreSQL, and Java Spring Boot learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Graduated+Information+Systems+student+%7C+Full-stack+learner;Migrated+UniPaaS+projects+to+Magic+xpa+4.1;Designing+databases+with+PostgreSQL;Learning+Java+and+Spring+Boot" alt="Animated introduction: Information Systems student, Magic xpa project experience, PostgreSQL, and Java Spring Boot learner" />
 </a>
-
-<br />
 
 <img src="https://komarev.com/ghpvc/?username=naufallafif&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/naufallafif?label=Followers&style=for-the-badge&logo=github&color=BB9AF7" alt="GitHub followers" />
