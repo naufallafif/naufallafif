@@ -57,25 +57,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naufallafif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=naufallafif&show_icons=true&theme=default&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=naufallafif&show_icons=true&theme=default&hide_border=true" alt="Afif's GitHub statistics" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=naufallafif&layout=compact&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=naufallafif&layout=compact&theme=default&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufallafif&layout=compact&theme=default&hide_border=true" alt="Afif's most-used programming languages" />
-</picture>
-
 <br />
 
 <img src="https://streak-stats.demolab.com?user=naufallafif&theme=tokyonight&hide_border=true" alt="Afif's GitHub contribution streak" />
-
 <br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=naufallafif&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies earned by Afif" />
 
 </div>
 
