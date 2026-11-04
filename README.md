@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,git,github,vscode,figma&perline=10" alt="Afif's technology stack: Java, HTML, CSS, JavaScript, PHP, MySQL, Git, GitHub, VS Code, and Figma" />
+<img src="https://skillicons.dev/icons?i=java,laravel,html,css,js,php,mysql,postgres,git,github,vscode,figma&perline=10" alt="Afif's technology stack: Java, Laravel, HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Git, GitHub, VS Code, and Figma" />
 
 <br /><br />
 
@@ -45,6 +45,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Magic%20XPA-6B4E9B?style=for-the-badge" alt="Magic XPA" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio (SSMS)" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
