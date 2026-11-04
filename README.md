@@ -68,6 +68,13 @@
 
 ---
 
+## ⏱️ Coding Time & Languages
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🐍 Activity — Feed the Snake 🍎
 
 <div align="center">
