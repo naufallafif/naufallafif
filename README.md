@@ -44,23 +44,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naufallafif&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=naufallafif&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=naufallafif&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Afif's GitHub statistics, including commits, stars, and pull requests" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=naufallafif&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=naufallafif&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufallafif&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Afif's GitHub statistics, including commits, stars, and pull requests" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=naufallafif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=naufallafif&layout=compact&langs_count=8&theme=default&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufallafif&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Afif's top programming languages by repository code size" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufallafif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufallafif&layout=compact&langs_count=8&theme=default&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufallafif&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Afif's top programming languages by repository code size" />
 </picture>
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=naufallafif&theme=tokyonight&hide_border=true" alt="Afif's GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naufallafif&theme=tokyo-night&hide_border=true&area=true" alt="Afif's GitHub contribution activity over time" />
 
 </div>
 
