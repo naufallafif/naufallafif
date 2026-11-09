@@ -18,7 +18,7 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated illustration of a developer working at a computer" />
 
-- 🎓 Information Systems student focused on building practical software
+- 🎓 Graduated Information Systems student focused on building practical software
 - 🔄 Worked on project-based migrations from UniPaaS to **Magic xpa 4.1**.DB using Oracle SQL tools
 - ⚛️ Built projects and explored frontend development with **React**
 - 🗄️ Learning full-stack development, starting with database design and **PostgreSQL**
