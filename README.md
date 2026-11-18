@@ -19,9 +19,8 @@
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated illustration of a developer working at a computer" />
 
 - 🎓 Graduated Information Systems student focused on building practical software
-- 🔄 Worked on project-based migrations from UniPaaS to **Magic xpa 4.1**.DB using Oracle SQL tools
 - ⚛️ Built projects and explored frontend development with **React**
-- 🗄️ Learning full-stack development, starting with database design and **PostgreSQL**
+- 🗄️ Learning full-stack development, starting with database design, **PostgreSQL** and **Java Spring Boot**
 - ☕ Currently learning **Java Spring Boot** and its core concepts
 - 🛠️ Also work with Laravel, PHP, JavaScript, and MySQL
 - 🤝 Open to collaborating on web and backend projects
@@ -85,6 +84,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naufallafif/naufallafif/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/naufallafif/naufallafif/output/github-contribution-grid-snake.svg" alt="Animated snake eating Afif's GitHub contribution grid" />
 </picture>
+
+<br />
+
+<sub>Generated daily from my contribution activity.</sub>
 
 🔥 Keep committing. Keep growing. Keep the snake fed. 🔥
 
