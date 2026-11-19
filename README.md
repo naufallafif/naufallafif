@@ -87,7 +87,7 @@
 
 <br />
 
-<sub>Generated daily from my contribution activity.</sub>
+<sub>Refreshes after pushes to this repository and hourly to catch other activity.</sub>
 
 🔥 Keep committing. Keep growing. Keep the snake fed. 🔥
 
